@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+    color: aliceblue;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center h1{
+    background-color: seagreen;
+}
+
+.center img{
+    width: 60%;
+    height: 400px;
+}
+

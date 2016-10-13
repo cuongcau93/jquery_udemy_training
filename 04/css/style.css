@@ -1,0 +1,22 @@
+body{
+    background-color: green;
+    color: aliceblue;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center h1{
+    background-color: darkgreen;
+}
+
+.sample{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: -41px;
+}

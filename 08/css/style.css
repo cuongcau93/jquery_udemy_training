@@ -1,0 +1,27 @@
+body{
+    background-color: green;
+    color: aliceblue;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center h1{
+    background-color: darkgreen;
+}
+
+#btn1{
+    padding: 20px;
+    font-size: 20px;
+    background-color: lightcoral;
+    color: aliceblue;]
+}
+
+#btn2{
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: darkmagenta;
+}
